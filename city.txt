@@ -1,0 +1,17 @@
+Алматы,https://europharma.kz/
+Нур-Султан,https://ast.europharma.kz/
+Актобе,https://aqtobe.europharma.kz/
+Актау,https://aqtau.europharma.kz/
+Усть-Каменогорск,https://oskemen.europharma.kz/
+Караганда,https://krg.europharma.kz/
+Кызылорда,https://qyzylorda.europharma.kz/
+Уральск,https://oral.europharma.kz/
+Талдыкорган,https://taldyqorgan.europharma.kz/
+Тараз,https://taraz.europharma.kz/
+Семей,https://semei.europharma.kz/
+Туркестан,https://turkestan.europharma.kz/
+Атырау,https://atyrau.europharma.kz/
+Сарыагаш,https://saryagash.europharma.kz/
+Кокшетау,https://kokshetau.europharma.kz/
+Шымкент,https://shymkent.europharma.kz/
+
